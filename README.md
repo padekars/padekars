@@ -15,33 +15,25 @@
 </p>
 
 <h3 align="left">Languages:</h3>
+<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/9543/9543826.png" alt="sql" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/r/r_intro.asp" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-1024.png" alt="r" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
 
 
 <h3 align="left">Databases:</h3>
-
+<p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="40" height="40"/> </a> 
-
 <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mssqlserver" width="40" height="40"/> </a> 
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="
-https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="mongodb" width="40" height="40"/> </a> 
-
-<a href="https://neo4j.com/?utm_source=google&utm_medium=PaidSearch&utm_campaign=GDB&utm_content=AMS-X-Conversion-GDB-Text&utm_term=neo4j&gad_source=1&gclid=CjwKCAiAyp-sBhBSEiwAWWzTnoMoYp2dIIlqYRcDZAHw_cc6hPHO62peDPzssepHqRT-mnODfOvpuBoCj44QAvD_BwE" target="_blank" rel="noreferrer"> <img src="
-https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-1.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-
-
-
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://neo4j.com/?utm_source=google&utm_medium=PaidSearch&utm_campaign=GDB&utm_content=AMS-X-Conversion-GDB-Text&utm_term=neo4j&gad_source=1&gclid=CjwKCAiAyp-sBhBSEiwAWWzTnoMoYp2dIIlqYRcDZAHw_cc6hPHO62peDPzssepHqRT-mnODfOvpuBoCj44QAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-1.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 
 
