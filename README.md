@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Snehal Padekar</h1>
-<h3 align="center">I am a graduate student at Northeastern University studying Master of Science in Information Systems. I am passionate about Data analysis, Data engineering, and Data science.</h3>
+<h3 align="center">I am a graduate student at Northeastern University studying Master of Science in Information Systems. I am passionate about Data Analysis, Data Engineering, and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padekars&label=Profile%20views&color=0e75b6&style=flat" alt="padekars" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://snehalpadekar.carrd.co/](https://snehalpadekar.carrd.co/)
 
-- 💬 Ask me about **Data analysis, Data Engineering and Data Science**
+- 💬 Ask me about **Data Analysis, Data Engineering and Data Science**
 
 - 📫 How to reach me **padekar.s@northeastern.edu**
 
