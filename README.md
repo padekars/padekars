@@ -40,13 +40,9 @@
 
 <h3 align="left">Cloud:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<p align="left"> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="40" height="40"/> </a> 
-
-
-<p align="left"> <a href="https://cloud.google.com/free/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644159077394-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General_core+brand_main-KWID_43700074766895889-aud-1589252136686:kwd-87853815&userloc_1018127-network_g&utm_term=KW_gcp&gad_source=1&gclid=CjwKCAiAyp-sBhBSEiwAWWzTnq7j23wGjaEPGm1cRj12hazA9xjT-mHsZDZ7SG269nXl2x6CY8d_WRoC2TUQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="azure" width="40" height="40"/> </a> 
-  
-
-
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com/free/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644159077394-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General_core+brand_main-KWID_43700074766895889-aud-1589252136686:kwd-87853815&userloc_1018127-network_g&utm_term=KW_gcp&gad_source=1&gclid=CjwKCAiAyp-sBhBSEiwAWWzTnq7j23wGjaEPGm1cRj12hazA9xjT-mHsZDZ7SG269nXl2x6CY8d_WRoC2TUQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="azure" width="40" height="40"/> </a> 
+</p>
 
 <h3 align="left">Machine Learning:</h3>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
