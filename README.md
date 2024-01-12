@@ -2,6 +2,9 @@
 <h3 align="center">I am a graduate student at Northeastern University studying Master of Science in Information Systems. I am I am passionate about Data Analysis, Data Engineering, and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padekars&label=Profile%20views&color=0e75b6&style=flat" alt="padekars" /> </p>
+- Information Systems graduate student at Northeastern University, Boston, MA
+
+- Passionate about Data Analysis, Data Engineering, and Data Science
 
 - 👨‍💻 All of my projects are available at [https://snehalpadekar.carrd.co/](https://snehalpadekar.carrd.co/)
 
